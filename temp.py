@@ -14,7 +14,7 @@ if (farenheit_celsius == 'Farenheit'):
         number_C = (Celsius * 1.8) + 32
         print(f"{Celsius}°C converted to Farenheit is:  ")
   
-        
+    
         
 
     
